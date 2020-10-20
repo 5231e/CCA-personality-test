@@ -1,5 +1,3 @@
-# CCA-personality-test
- <<<<<<< main
 Are you having trouble finding a CCA? Come take this quiz to find out what CCA best suits you!
 print("Title of program: CCA Matching Personality test")
 print()
@@ -11,13 +9,17 @@ tech1 = input("I enjoy building and fixing things.")
 
 outdoor1 = input("I'll go crazy if I do not go out of the house for the whole day.")
 
-music1 = input("I can hear a story in my mind whenever i hear music.")
+ <<<<<<< patch-1
+music1 = input("I can hear a story in my mind when I am listening to music.")
+ =======
+music1 = input("I can hear a story in my mind whenever I listen to music.")
+ >>>>>>> main
 
-tech2 = input("I know/have interest in building apps and websites.")
+tech2 = input("I know/have an interest in building apps and websites.")
 
-outdoor2 = input("I'm good at and enjoy tying knots and ropes.")
+outdoor2 = input("I'm good at/enjoy tying knots and ropes.")
 
-music2 = input("I have an interest in a musical instrument.")
+music2 = input("I have an interest in musical instruments and music.")
 
 
 tech_final = int(tech1) + int(tech2)
@@ -34,6 +36,4 @@ else:
   print("You might be suitable for a CCA from performing arts!")
 
   
-=======
-Clarisse's personality test :)
- >>>>>>> main
+
