@@ -10,13 +10,13 @@ tech1 = input("I enjoy building and fixing things.")
 
 outdoor1 = input("I'll go crazy if I do not go out of the house for the whole day.")
 
-music1 = input("I can hear a story in my mind when i hear music.")
+music1 = input("I can hear a story in my mind whenever i hear music.")
 
 tech2 = input("I know/have interest in building apps and websites.")
 
-outdoor2 = input("I'm good and enjoy tying knots and ropes.")
+outdoor2 = input("I'm good at and enjoy tying knots and ropes.")
 
-music2 = input("I have interest in a musical instrument.")
+music2 = input("I have an interest in a musical instrument.")
 
 
 tech_final = int(tech1) + int(tech2)
