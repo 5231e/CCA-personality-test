@@ -1,4 +1,4 @@
-Are you having trouble finding a CCA? Come take this quiz to find out what CCA best suits you!
+Are you having trouble finding a CCA? Come take this quiz to find out what CCA best suits you!This is a short and simple quiz to find out abt urself1
 print("Title of program: CCA Matching Personality test")
 print()
 print("Welcome to DHS! We hope you had  geat impression of our school. Please answer the following questions truthfully and we'll suggest a CCA for you! We will chose the best one so that you will enjoy your dunman high experience here!")
