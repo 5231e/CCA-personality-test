@@ -2,7 +2,7 @@
 Are you having trouble finding a CCA? Come take this quiz to find out what CCA best suits you!
 print("Title of program: CCA Matching Personality test")
 print()
-print("Welcome to DHS! Please answer the following questions truthfully and we'll suggest a CCA for you!")
+print("Welcome to DHS! We hope you had  geat impression of our school. Please answer the following questions truthfully and we'll suggest a CCA for you! We will chose the best one so that you will enjoy your dunman high experience here!")
 print("Please respond with a number 1 - 5, where 1 is strongly disagree and 5 is strongly agree.")
 print()
 
