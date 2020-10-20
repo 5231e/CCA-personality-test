@@ -9,7 +9,11 @@ tech1 = input("I enjoy building and fixing things.")
 
 outdoor1 = input("I'll go crazy if I do not go out of the house for the whole day.")
 
+ <<<<<<< patch-1
 music1 = input("I can hear a story in my mind when I am listening to music.")
+ =======
+music1 = input("I can hear a story in my mind whenever I listen to music.")
+ >>>>>>> main
 
 tech2 = input("I know/have an interest in building apps and websites.")
 
